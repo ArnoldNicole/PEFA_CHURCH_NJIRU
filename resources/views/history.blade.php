@@ -1,0 +1,48 @@
+@extends('layouts.app')
+@section('content')
+<div class="form-panel">
+	<div class="mt-4 pt-4">
+		<br>
+		<hr>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-2 ml-3">
+		<img src="/storage/profiles/default.png" class="w-50 img-thumbnail rounded-circle img-fluid" alt="Pefa Logo">
+	</div>
+	<div class="col-md-8 mb-3">
+		<article class="mb-2">
+			<h3 class="text-center font-weight-bold h3">THE .PENTECOSTAL EVANGELISTIC FELLOWSHIP OF AFRICA (P.E.F.A.)</h3>
+			<p class="alert">developed from the partnership and merger of churches that had been founded by Elim Fellowship (formerly Elim Missionaries Assemblies, who's Headquarters are in Lima, New York, USA and the International Pentecostal Assemblies (now known as International Pentecostal Churches of Christ, who's Headquarters are located in London, Ohio, USA). These two missionary bodies agreed to unite their churches to form the Pentecostal Evangelistic Fellowship of Africa.</p>
+<h4  class="text-center font-weight-bold h4 text-primary">
+P.E.F.A.</h4>
+<p> in essence means: a vibrant Pentecostal Church where the ministry gifts of the Holy Spirit are in operation in the lives of the church members. It is an Evangelist Church, envisioned to preach the Full Gospel of Jesus Christ - salvation, healing and baptism of the Holy Spirit. It is also a church where believers fellowship together and recognize themselves as the very body of Jesus Christ. Last but not least, P.E.F.A. is a Continental Church that has spread its wings across the Continent of Africa. As this history is being written, P.E.F.A. Church has spread its wings to other countries of the world.
+</p>
+<h4 class="text-center font-weight-bold h4 text-primary">THE ROOTS OF P.E.F.A. </h4>
+<p>clearly go back to the United States of America, finding its beginning with the former Elim Missionaries Evangelistic Association that was started by Apostle Ivan Q. Spencer of Lima, New York. Apostle Ivan Q. Spencer initially lived at a town Called Hornel N, Y, where God had given him the vision for World Evangelism. In the vision God had he saw a great army of missionaries being sent in all the corners of world from the humble town of Hornel. These men and women would go under the powerful anointing of the Holy Spirit, and filled with the message of Christ as Savior, healer and baptizer in the Holy Spirit. Two locations in Kenya are identified as the legitimate birth places of P.E.F.A. - Bukuria Mission in Kuria being the birth place of Elim Churches and Kaimosi Mission being the birth place of I.P.A. Churches. Roy and Teresa Hill are the first missionaries who came to Tarang'anya in 1943 when Kenya was still under Colonial rule. The word "Tarang'anya" is a Kuria word which means "Light go away". Rev. Arthur Dodzweit and his wife May were the second missionary to come to Tarang'anya to join Roy and Teressa Hill. Rev. Arthur was a good electrician and he wired the whole mission station. The great electricity light that would be turned on at night at the Mission station did not auger well with the locals who lived in the close vicinity of the mission station - Tarang'anya. The work of the light to drive away the darkness would not be quickly and easily welcome because it would expose some activities that were not in conformity with what the missionaries were preaching. And so, the name, "Tarang'anya" -meaning "Light go away" would be the good name for the new found missionary abode.
+</p>
+ 
+<h4 class="text-center font-weight-bold h4 text-primary">THE LITTLE SEED GROWING STEADILY</h4>
+<p> in Tarang'anya was to be the seed that would spread through out the country. Bukuria Mission was registered as the first Elim Mission Station in 1 945. Rev. Bud and Fay Sickler first moved to Bukuiria in 1944 where he stayed until 1953 when he moved to the coastal town of Mombasa.
+Rev. Joseph Muhingira is one of the early converts in the region and in actual fact; Rev. Joseph Muhingira was the first Elim convert. He became an example of what God could do to save any person who in the view of many was seen as very hard people to change. Indeed up until Muhingira's confession it had been very hard to get confession of faith from Kuria people.T hey had resisted the Gospel in every way.</p>
+
+<h4 class="text-center font-weight-bold text-primary">THE SUNA MISSION </h4>
+<p>was the second Elim Mission Station and was started in Nyabisawa Sun a through the efforts of Bud Sickler and missionary Art Dodzweit in 1949.The late Erastus Otieno, a former teacher had been posted by the ministry of Education to go to teach at Nyabisawa Girls Boarding  School, an Elim mission School in 1 966. Coming out of Seventh Day Adventist faith, the late Erustus Otieno many times had scorned at the move of the Holy spirit as it worked in the life of the believers in the Nyabisawa Church. He did not realize that he would become one of the pioneers of the P.E.F.A. Church and would be instrumental in founding much church. The Lord touched him in a special way and after his conversion he resigned from his teaching career and went to pioneer the work in North Mara, Tanzania together with nationals such as Stephen Mageri, Abel Gasirabo. He became the P.E.F.A General Overseer in the year 1979, a post he held until the year 2000 when he went to be with the Lord.</p>
+
+<h4 class="text-center font-weight-bold text-primary">THE VISION OF THE FLAME OF FIRE </h4>
+<span>ignited in Mombasa and which begun to spread fast to other parts of the Continent of Africa was to change Bud's ministry and vision. He was no longer going to serve God in a little way but God would open his horizon and extend his tent to a ministry that would cover the whole of Africa. Bud and Fay Sickler moved to Mombasa in 1953 relocating from Tarang'anya and Sun a Missions. The years 1954-1956 were in actual fact very hard for the Milburn Sickler for he almost abandoned his missionary work for employment as a clerk in the Port of Mombasa, The Lord however was faithful.</span>
+
+<p>After they had engaged in much prayer and fasting, God talked to him seriously and that was the turning point in his life. While he was in deep and earnest prayer, and in a clear vision, Sickler saw a vision. In the vision he saw small fire that sparked out of the city of Mombasa - for he saw as if the map of Africa was spread open before him - and from Mombasa it begun to spread until it engulfed the whole continent of Africa He then saw a large round church which he estimated could sit 5,000 people and he saw himself ministering in the church. When he came from the vision his life was changed, rejuvenated, renewed and his zeal rekindled. He was now ready to press on and see the fulfillment of the vision. The Lord took His servant home in January 2000 and in the same year the church was dedicated to the glory of the Lord. His wife Fay joined him in glory after two years - 2002.</p>
+
+<p><strong>Evangelist T.L.</strong> and <strong> Daisy Osborn</strong> came to conduct an evangelistic crusade in the coastal town of Mombasa in the year 1957. This was the first ever Evangelism Crusade to be held in Mombasa. The success of this great Evangelistic Crusade known as the "Osborn Crusade was a great breakthrough in the evangelism efforts of the P.E.F.A. Church. It ushered in a great wave of spiritual revival in Kenya that saw the spread of the Gospel to many other countries of Africa. Among those who were saved during the meetings and those who the Lord was to use in the subsequent year in spreading of the P.E.F.A. Church were Alexander Aidin Abala, Joseph Kayo, Jeremiah Abednego, and Isaac Waswa to mention but just a few. Others were Elijah Goe (whose son, Bishop George Chipa is the current Deputy General Overseer for P.E.F.A.) These men were touched by God and they went out to preach in obedience to the great Commission, the Lord working with them and performing many signs and wonders. Consequent to this revival was a tremendous church growth. Many Churches begun to mushroom allover East and Central Africa.</p>
+
+<p>P.E.F.A. spreads to Central Kenya. Elim missionary Rev. Paul Johansson came to Kenya in 1961; initially staying briefly at Suna and later on moved to Nairobi to help pioneer the work there. The late Chacha Omahe from Kuria and the late Nathaniel Jullu from Sun a joined Rev. Paul Johansson.
+</p>
+<p>
+Rev. Arthur Dodzweit also moved from Kuria to Nairobi to join the evangelistic onslaught led by Rev. Paul Johanson and his team. The work in Nairobi begun to grow and Bishop Samuel Mwatha joined the Johanson's team as a young man.This unbeatable team was instrumental in evangelizing the Nairobi city and its environs. Work continued despite the hard time of political agitations for independence. This outreach saw a great harvest which resulted in the founding of the All Nations Gospel Church which continued to grow in the able leadership of Bishop Samuel Mwatha till the time of writing of this history. Some of the pioneer Evangelist in this region, were Rev. Geoffrey Muchoki, the late Rafael Marete, the late Jimna muchori, and Rev. Joseph Mwangata, Rev. Gaddiel Nkarrabali and Bishop Joseph Wahihenya to mention just a few.</p>
+
+<p>The Western Region and the Rift Valley Regions were not spared from the Pentecostal fire that was now sweeping across the country. The late Rev. Daniel Chege led the work in Rift Valley together with some evangelists from Western Region - the late Rev. Gerrysho Lazaro, the late Rev. Musa Khasi and Rev. Meshack Khaligona to mention just a few. The work in Rift Valley has spread to many areas such as Lodwra, Turkana and other unreached areas. </p>
+		</article>
+	</div>
+	</div>
+@endsection

@@ -1,0 +1,86 @@
+.img-carousel{
+	height:400px;
+	
+}
+
+
+#page-content {
+  flex: 1 0 auto;
+}
+
+#sticky-footer {
+  flex-shrink: none;
+}
+.site-min-height{
+	min-height: 530px;
+}
+.image-small{
+	height:70px;
+	width:70px;
+}
+#services {
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#services .box {
+  padding: 50px 20px;
+  margin-bottom: 70px;
+  text-align: center;
+  border: 1px solid aquamarine;
+  height: 250px;
+  position: relative;
+  background: #fafafa;
+}
+
+#services .icon {
+  position: absolute;
+  top: -36px;
+  left: calc(50% - 36px);
+  transition: 0.2s;
+  border-radius: 50%;
+  display: inline-block;
+  border: 6px solid #fff;
+}
+
+#services .icon a {
+  display: inline-block;
+  background: aquamarine;
+  border: 2px solid skyblue;
+  padding: 16px;
+  border-radius: 50%;
+  transition: 0.3s;
+}
+
+#services .icon i {
+  color: black;
+  font-size: 24px;
+}
+
+#services .box:hover .icon i {
+  color: #2dc997;
+}
+
+#services .box:hover .icon a {
+  color: #2dc997;
+  background: #fff;
+}
+
+#services .title {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+
+#services .title a {
+  color: #111;
+}
+
+#services .description {
+  font-size: 14px;
+  line-height: 24px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  
+}
